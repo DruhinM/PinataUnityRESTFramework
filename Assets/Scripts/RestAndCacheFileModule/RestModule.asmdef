@@ -1,0 +1,16 @@
+{
+    "name": "RestModule",
+    "rootNamespace": "",
+    "references": [
+        "GUID:15ccc621d0e764e42b108802bc40e112"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

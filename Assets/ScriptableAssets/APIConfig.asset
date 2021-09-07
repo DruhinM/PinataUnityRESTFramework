@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a20fac597dc2438bbfd272e59e0515d, type: 3}
+  m_Name: APIConfig
+  m_EditorClassIdentifier: 
+  Api:
+    PinataHost: https://api.pinata.cloud
+    StagingURL: qa.gcl.ai
+    ProductionURL: https://api.nft.storage
+    IsProduction: 1
+    ApiKey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDAyZjYwNjZhQkRmMDlhMDgzNmM5ODkzODBlNzFiNTYzMzQ3Y0MzNjAiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTYzMDA2MjE0Njc5MSwibmFtZSI6Im5mdC1hcnQtdG9vbCJ9.tbpHvrl2exgEdJO2OMUEzTC3fmUze2kyc-uRRcXARbY
+    SecretKey: 87951e3973658d26dc7d9eee70e18e62c1fab93cbaa4ed59a7df8dcec0d6bb80
+    PinatatAPIKey: c7b09db1f29de8de5136
+  SocketConfig:
+    Host: localhost
+    SocketEvents: []
+  Photon:
+    Address: 188.117.216.243
+    Port: 15055
+  Firebase:
+    Address: 188.117.216.243
+    Port: 15055
